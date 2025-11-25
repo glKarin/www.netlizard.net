@@ -1,0 +1,342 @@
+a.lang_flags                   {border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:9pt;color:#c4c4c4;        align:center; text-decoration:none;                                        }
+a.lang_flags_sel                      {border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:9pt;color:#FFFF00;        align:center;text-decoration:none;                                        }
+a.string_menu                      {border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:10pt;color:#FFFFFF;        align:center;text-decoration:none;                                          }
+a.string_menu:hover                      {border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:10pt;color:#FFFF00;        align:center;text-decoration:none;                                        }
+a.game_links_string{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:8pt;color:#FFFFFF;        align:center; text-decoration:none;                                   }
+a.game_links_string:hover{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:8pt;color:#FFFF00;        align:center; text-decoration:none;                                  }
+a.news_text{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#c4c4c4;        align:center; text-decoration:none; font-weight:500;                                  }
+a.news_text:link{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#c4c4c4;        align:center; text-decoration:none; font-weight:500;                                  }
+a.news_text:hover{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#c4c4c4;        align:center; text-decoration:none; font-weight:500;                                  }
+
+
+a.news_text_large{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#000000;        align:center; text-decoration:none; font-weight:500;                                  }
+a.news_text_large:link{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#000000;        align:center; text-decoration:none; font-weight:500;                                  }
+a.news_text_large:hover{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#000000;        align:center; text-decoration:none; font-weight:500;                                  }
+td.news_text_large{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#000000;        align:center; text-decoration:none; font-weight:500;                                  }
+
+
+a.pages_links                      {border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:10pt;color:#FFFFFF;        align:center;text-decoration:none;                                          }
+a.pages_links:hover                      {border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:10pt;color:#FFFFFF;        align:center;text-decoration:none;                                        }
+a.pages_links_current                     {border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:10pt;color:#FFFF00;        align:center;text-decoration:none;                                          }
+a.pages_links_current:hover                      {border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:10pt;color:#FFFF00;        align:center;text-decoration:none;                                        }
+table.pages_links {border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:10pt;color:#FFFF00;        align:center;text-decoration:none;                                        }
+td.pages_links {border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:10pt;color:#FFFF00;        align:center;text-decoration:none;                                        }
+td.game_title_about{border: 0 px solid;font-family: Arial, Helvetica, sans-serif; font-weight:bold;
+font-size:13.4pt;color:#000000;        align:center;text-decoration:none;                                        }
+a.detail                      {color:#FFFFFF;align: center;text-decoration:none;font-size:11pt;font-weight: bold;font-family: Arial, Helvetica, sans-serif; border:0px;         }
+a.detail:link                        {color:#FFFFFF;align: center;text-decoration:none;font-size:11pt;font-weight: bold;font-family: Arial, Helvetica, sans-serif;        border:0px;                                                }
+a.detail:hover                        {align: center;font-weight: bold;text-decoration:none;font-size:11pt;color:#FFFFFF;font-family: Arial, Helvetica, sans-serif;border:0px;                                                        }
+
+
+
+
+table.lang_flags  td                    {border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:9pt;        align:center;                                        }
+table.head_text                        {border: 0 px solid;font-family: Arial, Helvetica, sans-serif;text-color:#000000;font-weight: bold;
+font-style: italic;font-size:8.5pt;color:#FFFFFF;                                                }
+a.top_links                   {border: 0 px solid;font-family: Arial, Helvetica, sans-serif;    
+font-size:10pt;color:#c4c4c4;        align:center; text-decoration:none;                                 }
+td.top_links                   {border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#c4c4c4;        align:center; text-decoration:none; font-weight:500;                             }
+td.news_text{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#c4c4c4;        align:center; text-decoration:none; font-weight:500;                                  }
+td.prog_text{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#000000;        align:center; text-decoration:none; font-weight:500;                                  }
+td.opis_dummy{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#00000;        align:center; text-decoration:none; font-weight:500;                                  }
+td.opis_game_title{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#00000;        align:center; text-decoration:none; font-weight:bold;                                  }
+
+td.operator_title{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:11px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;                                  }
+
+
+a.vote_item{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;background:
+font-size:10px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;                                  }
+
+
+td.voting_item{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;background:url(img/vote/voting_bg_dark.gif);        background-repeat: repeat-y;
+font-size:10px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;                                  }
+td.voting_item_a{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;                                  }
+td.voting_item_no_bg{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;                                  }
+
+td.total_count{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;                                  }
+
+
+td.vote_hover{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;background-repeat: repeat-y;
+font-size:11px;color:#FFFFFF;        align:center; text-decoration:none;                                   }
+
+
+
+
+a.oper_link                     {border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:11px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;}
+a.oper_link:hover                      {border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:11px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;}
+
+
+
+
+
+td.opis_game_text{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#00000;        align:justify; text-decoration:none;  line-height:1.2                                  }
+pre.opis_game_text{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#00000;        align:center; text-decoration:none;  line-height:1.2                                  }
+td.percents {border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:8pt;color:#FFFFFF;        align:center; text-decoration:none;                                    }
+td.running_string {border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#36ff00;        align:center; text-decoration:none; font-weight:bold                                   }
+td.news_date{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#000000;        align:center; text-decoration:none; font-weight:500;                                  }
+td.game_index{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold                                   }
+td.game_links_string{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:8pt;color:#FFFFFF;        align:center; text-decoration:none;                                   }
+td.game_links_string:hover{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:8pt;color:#FFFF00;        align:center; text-decoration:none;                                  }
+td.game_links_string_cur{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:8pt;color:#FFFF00;        align:center; text-decoration:none; font-weight:bold                                   }
+td.in_progress{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:8pt;color:#FFFFFF;        align:center; text-decoration:none;                                    }
+td.information_column{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:12px;color:#000000;        align:center; text-decoration:none;                                  }
+td.information_column_cap{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;
+font-size:10px;color:#000000;        align:center; text-decoration:none;                                  }
+
+td.information_column table{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10px;color:#000000;        align:center; text-decoration:none;                                  }
+td.cn{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:7pt;color:#FFFFFF;        align:center; text-decoration:none;                                   }
+td.choose_country_words{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:10pt;color:#FFFFFF;        align:center; text-decoration:none;font-weight:bold;                                     }
+td.price{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:14px;color:#FFFFFF;        align:center; text-decoration:none;font-weight:bold;                                     }
+td.bye_message{border: 0 px solid;font-family: Arial, Helvetica, sans-serif;
+font-size:12px;color:#FFFFFF;        align:center; text-align:justify; text-decoration:none;font-weight:bold;                                     }
+
+div.voting_item{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;background:url(img/vote/voting_bg_dark.gif);        background-repeat: repeat-y;
+font-size:10px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;
+height:35px;width:190px;                                  }
+
+div.voting_item:hover{border: 0 px solid;font-family : Tahoma, Verdana, Arial,sans-serif;background:url(img/vote/voting_bg.gif);       background-repeat: repeat-y;
+font-size:10px;color:#FFFFFF;        align:center; text-decoration:none; font-weight:bold;
+height:35px;width:190px;                                  }
+
+
+<!-- for games_en -->
+div#left_menu_id        div.main_menu_games_en                  {
+background:url(img/main_menu/games_light.gif);
+background-repeat:no-repeat;height:35px;width:190px;font-size:11pt;border: 0 px solid;
+font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;
+                                                                                          }
+
+div#left_menu_id        div.main_menu_games_en:hover          {
+background:url(img/main_menu/games_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00;
+                                                                                                  }
+
+
+div#left_menu_id        div.main_menu_games_en a.games_en                {
+background:url(img/main_menu/games_light.gif);        background-repeat:no-repeat;        display:block;height:35px;width:190px;
+font-size:12pt;font-weight: bold;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;        text-decoration:none
+                                                                                                        }
+
+div#left_menu_id        div.main_menu_games_en        a.games_en:hover          {
+background:url(img/main_menu/games_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00; text-decoration:none
+                                                                                                              }
+<!-- for games_en end -->
+<!-- ---------------- -->
+<!-- for logo_en -->
+div#left_menu_id        div.main_menu_logo_en                  {
+background:url(img/main_menu/logo_light.gif);
+background-repeat:no-repeat;height:35px;width:190px;font-size:11pt;border: 0 px solid;
+font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;
+                                                                                          }
+
+div#left_menu_id        div.main_menu_logo_en:hover          {
+background:url(img/main_menu/logo_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00;
+                                                                                                  }
+
+
+div#left_menu_id        div.main_menu_logo_en a.logo_en                {
+background:url(img/main_menu/logo_light.gif);        background-repeat:no-repeat;        display:block;height:35px;width:190px;
+font-size:12pt;font-weight: bold;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;        text-decoration:none
+                                                                                                        }
+
+div#left_menu_id        div.main_menu_logo_en        a.logo_en:hover          {
+background:url(img/main_menu/logo_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00; text-decoration:none
+                                                                                                              }
+<!-- for logo_en end -->
+<!-- ---------------- -->
+<!-- for sh_en -->
+div#left_menu_id        div.main_menu_sh_en                  {
+background:url(img/main_menu/sh_light.gif);
+background-repeat:no-repeat;height:35px;width:190px;font-size:11pt;border: 0 px solid;
+font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;
+                                                                                          }
+
+div#left_menu_id        div.main_menu_sh_en:hover          {
+background:url(img/main_menu/sh_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00;
+                                                                                                  }
+
+
+div#left_menu_id        div.main_menu_sh_en a.sh_en                {
+background:url(img/main_menu/sh_light.gif);        background-repeat:no-repeat;        display:block;height:35px;width:190px;
+font-size:12pt;font-weight: bold;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;        text-decoration:none
+                                                                                                        }
+
+div#left_menu_id        div.main_menu_sh_en        a.sh_en:hover          {
+background:url(img/main_menu/sh_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00; text-decoration:none
+                                                                                                              }
+<!-- for sh_en end -->
+<!-- ---------------- -->
+<!-- for anim_en -->
+div#left_menu_id        div.main_menu_anim_en                  {
+background:url(img/main_menu/anim_light.gif);
+background-repeat:no-repeat;height:35px;width:190px;font-size:11pt;border: 0 px solid;
+font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;
+                                                                                          }
+
+div#left_menu_id        div.main_menu_anim_en:hover          {
+background:url(img/main_menu/anim_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00;
+                                                                                                  }
+
+
+div#left_menu_id        div.main_menu_anim_en a.anim_en                {
+background:url(img/main_menu/anim_light.gif);        background-repeat:no-repeat;        display:block;height:35px;width:190px;
+font-size:12pt;font-weight: bold;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;        text-decoration:none
+                                                                                                        }
+
+div#left_menu_id        div.main_menu_anim_en        a.anim_en:hover          {
+background:url(img/main_menu/anim_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00; text-decoration:none
+                                                                                                              }
+<!-- for anim_en end -->
+
+<!-- RUSSIAN PART BEGIN-->
+<!-- for games_ru -->
+div#left_menu_id        div.main_menu_games_ru                  {
+background:url(img/main_menu/ru_games_light.gif);
+background-repeat:no-repeat;height:35px;width:190px;font-size:11pt;border: 0 px solid;
+font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;
+                                                                                          }
+
+div#left_menu_id        div.main_menu_games_ru:hover          {
+background:url(img/main_menu/ru_games_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00;
+                                                                                                  }
+
+
+div#left_menu_id        div.main_menu_games_ru a.games_ru                {
+background:url(img/main_menu/ru_games_light.gif);        background-repeat:no-repeat;        display:block;height:35px;width:190px;
+font-size:12pt;font-weight: bold;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;        text-decoration:none
+                                                                                                        }
+
+div#left_menu_id        div.main_menu_games_ru        a.games_ru:hover          {
+background:url(img/main_menu/ru_games_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00; text-decoration:none
+                                                                                                              }
+<!-- for games_ru end -->
+
+<!-- for logo_ru begin -->
+
+div#left_menu_id        div.main_menu_logo_ru                  {
+background:url(img/main_menu/ru_logo_light.gif);
+background-repeat:no-repeat;height:35px;width:190px;font-size:11pt;border: 0 px solid;
+font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;
+                                                                                          }
+
+div#left_menu_id        div.main_menu_logo_ru:hover          {
+background:url(img/main_menu/ru_logo_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00;
+                                                                                                  }
+
+
+div#left_menu_id        div.main_menu_logo_ru a.logo_ru                {
+background:url(img/main_menu/ru_logo_light.gif);        background-repeat:no-repeat;        display:block;height:35px;width:190px;
+font-size:12pt;font-weight: bold;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;        text-decoration:none
+                                                                                                        }
+
+div#left_menu_id        div.main_menu_logo_ru        a.logo_ru:hover          {
+background:url(img/main_menu/ru_logo_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00; text-decoration:none
+                                                                                                              }
+<!-- for logo_ru end -->
+
+<!-- for sh_ru -->
+div#left_menu_id        div.main_menu_sh_en                  {
+background:url(img/main_menu/ru_sh_light.gif);
+background-repeat:no-repeat;height:35px;width:190px;font-size:11pt;border: 0 px solid;
+font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;
+                                                                                          }
+
+div#left_menu_id        div.main_menu_sh_ru:hover          {
+background:url(img/main_menu/ru_sh_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00;
+                                                                                                  }
+
+
+div#left_menu_id        div.main_menu_sh_ru a.sh_ru                {
+background:url(img/main_menu/ru_sh_light.gif);        background-repeat:no-repeat;        display:block;height:35px;width:190px;
+font-size:12pt;font-weight: bold;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;        text-decoration:none
+                                                                                                        }
+
+div#left_menu_id        div.main_menu_sh_ru        a.sh_ru:hover          {
+background:url(img/main_menu/ru_sh_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00; text-decoration:none
+                                                                                                              }
+<!-- for sh_ru end -->
+<!-- for anim_ru -->
+div#left_menu_id        div.main_menu_anim_ru                  {
+background:url(img/main_menu/ru_anim_light.gif);
+background-repeat:no-repeat;height:35px;width:190px;font-size:11pt;border: 0 px solid;
+font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;
+                                                                                          }
+
+div#left_menu_id        div.main_menu_anim_ru:hover          {
+background:url(img/main_menu/ru_anim_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00;
+                                                                                                  }
+
+
+div#left_menu_id        div.main_menu_anim_ru a.anim_ru                {
+background:url(img/main_menu/ru_anim_light.gif);        background-repeat:no-repeat;        display:block;height:35px;width:190px;
+font-size:12pt;font-weight: bold;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#000000;        text-decoration:none
+                                                                                                        }
+
+div#left_menu_id        div.main_menu_anim_ru        a.anim_ru:hover          {
+background:url(img/main_menu/ru_anim_dark.gif);        background-repeat:no-repeat;display:block;height:35px;width:190px;
+font-size:12pt;border: 0 px solid;font-family: Arial, Helvetica, sans-serif;align: center;color:#FFFF00; text-decoration:none
+                                                                                                              }
+<!-- for anim_ru end -->
+
+<!-- RUSSIAN PART END  -->
+
